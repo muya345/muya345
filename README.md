@@ -1,14 +1,12 @@
 ## Hi there 👋
-Am Stella Wambui. A software engineer student in Murang'a University of Technology.
-
-
+Am Stella Wambui. A software developer student in Murang'a University of Technology.
 <!--
 **muya345/muya345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning about software development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
