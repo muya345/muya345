@@ -1,4 +1,6 @@
 ## Hi there 👋
+Am Stella Wambui.A software engineer student from in Murang'a University of Technology.
+
 
 <!--
 **muya345/muya345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
