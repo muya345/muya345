@@ -1,5 +1,5 @@
 ## Hi there 👋
-Am Stella Wambui.A software engineer student in Murang'a University of Technology.
+Am Stella Wambui. A software engineer student in Murang'a University of Technology.
 
 
 <!--
